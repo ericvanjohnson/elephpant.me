@@ -60,6 +60,7 @@
                         <li><a href="https://www.php.net" target="_blank" rel="noopener noreferrer" class="text-violet-200/85 transition hover:text-white">PHP.net</a></li>
                         <li><a href="https://afieldguidetoelephpants.net/" target="_blank" rel="noopener noreferrer" class="text-violet-200/85 transition hover:text-white">Field Guide</a></li>
                         <li><a href="https://github.com/jgrossi/elephpant.me/blob/master/README.md" target="_blank" rel="noopener noreferrer" class="text-violet-200/85 transition hover:text-white">About this site</a></li>
+                        <li><a href="https://phpc.chat" target="_blank" rel="noopener noreferrer" class="text-violet-200/85 transition hover:text-white">PHP Discord</a></li>
                     </ul>
                 </div>
             </div>
