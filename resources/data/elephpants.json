@@ -409,36 +409,12 @@
             "image": "51-phpcon-grandpa.jpg"
         },
         {
-            "id": 52,
-            "name": "Golden elePHPant",
-            "description": "Golden 20 year PHP elePHPant",
-            "sponsor": "Opengoodies",
-            "year": 2015,
-            "image": "52-golden-elephpant.png"
-        },
-        {
-            "id": 53,
-            "name": "HaPHPy",
-            "description": "Hand-crafted by V. Fanzutti for the Kenya PHP User Group",
-            "sponsor": "AFUP",
-            "year": 2015,
-            "image": "53-haphpy.jpg"
-        },
-        {
             "id": 54,
             "name": "Upinside",
             "description": "Upinside School",
             "sponsor": "Upinside School",
             "year": 2020,
             "image": "54-upinside.png"
-        },
-        {
-            "id": 55,
-            "name": "Sylius (Prototype)",
-            "description": "Sylius eCommerce",
-            "sponsor": "Monsieur Biz",
-            "year": 2020,
-            "image": "55-sylius-prototype.jpg"
         },
         {
             "id": 56,
@@ -487,14 +463,6 @@
             "sponsor": "SiteGround",
             "year": 2020,
             "image": "61-groundy.jpg"
-        },
-        {
-            "id": 62,
-            "name": "PHPlashy",
-            "description": "PHPVegas",
-            "sponsor": "PHP Vegas User Group",
-            "year": 2018,
-            "image": "62-phplashy.jpg"
         },
         {
             "id": 63,
