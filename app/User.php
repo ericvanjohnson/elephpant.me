@@ -127,7 +127,7 @@ class User extends Authenticatable
             [$user, $instance] = explode('@', $handle, 2);
 
             if ($user !== '' && $instance !== '') {
-                return "https://{$instance}/@{$user}";
+                return sprintf('https://%s/@%s', $instance, $user);
             }
         }
 
